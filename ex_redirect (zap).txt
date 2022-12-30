@@ -1,0 +1,773 @@
+GET /bWAPP/4493149113172583718.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/8338221687332637253 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/js/6847072237612278556 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/9011605755150617933 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 61
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=6579553214480993399.owasp.org&lastname=&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 74
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=http%3A%2F%2F6579553214480993399.owasp.org&lastname=&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=https%3A%2F%2F6579553214480993399.owasp.org&lastname=&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 83
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=https%3A%2F%2F6579553214480993399%252eowasp%252eorg&lastname=&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 91
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=5%3BURL%3D%27https%3A%2F%2F6579553214480993399.owasp.org%27&lastname=&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 74
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=http%3A%5C%5C6579553214480993399.owasp.org&lastname=&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=https%3A%5C%5C6579553214480993399.owasp.org&lastname=&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 67
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=%2F%2F6579553214480993399.owasp.org&lastname=&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 67
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=%5C%5C6579553214480993399.owasp.org&lastname=&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 74
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=HtTp%3A%2F%2F6579553214480993399.owasp.org&lastname=&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=HtTpS%3A%2F%2F6579553214480993399.owasp.org&lastname=&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 86
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=URL%3D%27http%3A%2F%2F6579553214480993399.owasp.org%27&lastname=&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 61
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=6579553214480993399.owasp.org&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 74
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=http%3A%2F%2F6579553214480993399.owasp.org&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=https%3A%2F%2F6579553214480993399.owasp.org&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 83
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=https%3A%2F%2F6579553214480993399%252eowasp%252eorg&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 91
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=5%3BURL%3D%27https%3A%2F%2F6579553214480993399.owasp.org%27&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 74
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=http%3A%5C%5C6579553214480993399.owasp.org&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=https%3A%5C%5C6579553214480993399.owasp.org&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 67
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=%2F%2F6579553214480993399.owasp.org&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 67
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=%5C%5C6579553214480993399.owasp.org&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 74
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=HtTp%3A%2F%2F6579553214480993399.owasp.org&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=HtTpS%3A%2F%2F6579553214480993399.owasp.org&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 86
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=URL%3D%27http%3A%2F%2F6579553214480993399.owasp.org%27&form=submit
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 55
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=&form=6579553214480993399.owasp.org
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 68
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=&form=http%3A%2F%2F6579553214480993399.owasp.org
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 69
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=&form=https%3A%2F%2F6579553214480993399.owasp.org
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 77
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=&form=https%3A%2F%2F6579553214480993399%252eowasp%252eorg
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 85
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=&form=5%3BURL%3D%27https%3A%2F%2F6579553214480993399.owasp.org%27
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 68
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=&form=http%3A%5C%5C6579553214480993399.owasp.org
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 69
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=&form=https%3A%5C%5C6579553214480993399.owasp.org
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 61
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=&form=%2F%2F6579553214480993399.owasp.org
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 61
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=&form=%5C%5C6579553214480993399.owasp.org
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 68
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=&form=HtTp%3A%2F%2F6579553214480993399.owasp.org
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 69
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=&form=HtTpS%3A%2F%2F6579553214480993399.owasp.org
+========
+POST /bWAPP/ssii.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 80
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/ssii.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+firstname=&lastname=&form=URL%3D%27http%3A%2F%2F6579553214480993399.owasp.org%27
+========

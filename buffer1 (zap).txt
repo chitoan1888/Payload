@@ -1,0 +1,123 @@
+GET /bWAPP/login.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+POST /bWAPP/login.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 51
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=fjc2nmjfs15pbk8fai68gn01d7
+X-Burp-Comment:   |  
+
+login=bee&password=bug&security_level=0&form=submit
+========
+GET /bWAPP/5649598691662650127.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/2387069529254576039 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/js/860464118741965120 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/2271332409111392757 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 2119
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+target=DjnmPxRxSfiiTCZgBXooFMIDehaFdxpGsUfHHkDmASQvoOMyiONhPweaMcqQkltSnHTACKZDRYHSuSnZbVRmtDZdiIiyMcpnBGykkWZqrjKhCsXKyVsQyorlaZGywrQAfbABiwkLuKBoIZkLIOkamqYHEAokctUTBNRBvkAkjgCQjhOUyXdeAICsMYKokLrjqbfqhVCiJgibuiGevbwDEoxlHloYhERypgDBVReyRljvFLjTuqBLlcHnMtIRkdSmiIgSEaOwjjJxkeBeewDpMkxRYusCEflIeakLPreFibSptXOvRErwmAnbeefBmjwmAqIghCLhIVniivkpmaFmFcFieuekQIcBKymrxcqmLwgleBvyqlkRapZgHCfSWYZwNCcNWGtYCMGwwWmATvKLthElDKCKrajHJXPDbgTyPvCJwqykKDVQSMxvLKiYdJQFsyLdepIXXfBVgeRJpEGiYHiCvIGoGaKDGtbvoSNIZLdKIEJsBsGjXsiRVANfgvrokTvKdyIiTGNWyxlpFbKUZVPZMFAPfMjnXLjdFQoWrFAFNudMAOmhuMqAubjlUfsZcAadgtiXqAvtJMTQbxyMTITNPIoxKioubeclNdOOZUJlEDXbthqtDxOMRknyirTxZUqhPpAQpaWnhWZpftrAAAdNkAnfXRuuPWugjnYyZOdgjNGnstlFmCGKxrYZsMdLyfcjtYYCigvtGrvQxLjKrQWpFXNQEJWNbFyudEeQTwHjvyShnkJIFHVwmTnZKdquvNAEWKSMdFqTBRVRqaJgvxFanihmePsrXSJCUiQIDCTbJEUUPcgDOVtLObtpKykeKpxBHDcDoHfKFguKNvEQLdsfAqvlCHoRMeqlJGQguFDGiMcjEDitfXAXSBiUUGuTVvaHfMBXwgIdEeYSVyOMhwFJCaoHrcwppOPDhhHFGArHOaxaEcLxGLgiWPqYvBnUvhRKWxQmTZRBdMXlbBiSSAGwjcVvIPIrTBRaBPZmaYjUSlxyGqvINAYsYhLYugDlUmWhgcZQCscdMLwagSwaXRdygUFlnxTSmPkSwRCNRyGxOJOjiMGLERKgwYUsyKKgngQmTirGHtKpNwMwDasGLJCGTgbjyKKNTKUqSlnULJXCXEaTWuoMqMvCIVGolNMLsMgvnYlsBiKUPTaJiftHuknrKnbIZiBAJbwircxGFRucyqRjdvhxCEWgjQuweAMFqnuTDarMSeqfVIJnxWiykySCvEqVgAbOPMnFVuPpGEjDEniZaoQumIBSMnMmrgqvpgURoBPkmjXBRGXbgrVIiUGAiSnGSaOciESuMRKqZPfwdLqsQJUJePbxKRhVjHePWKveJAxlCOOIJVbvyoWHiDEfoFtFgCvmkCcEtnlHVnEoWyfIILijCRfqqPFFEjmPTLwJMJmelleSCeGHObHRddvPdKAxXOYjrcTnjWKQPGAPMjdlxmScNwvvClhsfYELxwTqcNIgliHGFXWpREDpMbwhKRcUqCRuajvclkaFmHxqkPHvWrdVVGHcZjgbWkoPqOomFWbyvtdqZIPnEypNvbpewuvieeJrPcdLODBwJjqgDPugXJNJOGnufhJwnwxqnDDNsPucmmCVqKkmSRyvMRtNqfDKlnMKqShSJSofMPlOGpiroucsnXVcDeKedFvMLmloruQEQnQZoKSFwjsMfCjsYTRAgQgsWCDpBpanCdVcExsGRoXZATboAfcoEAbicBKAXgtOwPdeYkQArRUqZPqZpsApXcqnGeEtkIFlIlhVvobpvoReFgydmKvvSUwcdhWNCPQOuSdKVgSOUQuQtAhpjgtyHHXjKXDvTmEvwDrPPneTXqXGhURrnsVYJuOQxmBnVIHNEKkUYliFtvDvLOMlEoAnlgglMGNhZjeXoWOSnTQneDEoWqSoMghAYBbfAhvbSFrSqsCFbqOxfUHqcFMcqfCIgVrBxvCMAhuEQySefUhMuLatxmtbUxMxwcgyGmOHLXRtkpaKJpOkwXyYrgQTlWKpuyVZYDGokqBCHakWqfdysoQhThqYIoVBkyVVmydlZardFimUXZeDYbCjCbrKyTTcOXxRjymNEYaYSnopbhscZXNA&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 2124
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=crjrvke67msdgie5vep3g9skt1; security_level=0
+X-Burp-Comment:   |  
+
+target=www.nsa.gov&form=VtTcGLpRtggOkrmiFrAIkdcrIeOnfSYSoQwiHEiVqUtHvWLspjOOsapqxgoiUXasZDvdIGxOqPIPrlOfFAstpBFgjKyUCEJBBWTdvRcohknNPGkbXTRvbdSYPecocbvXKShKklhLOhvXNFxOwNarFdoGNVkZTVNXFLMqNNuVtCTbHIpaRaiEVvJLbfDirmdVkGtWjRZBkTbBHwBlZWnLJTlZmYjYbeGLEeOKjyTCiGkaUDroaCfmgiwvwXoxVDePEcUCDiQTcdWMlqyYMWiWpKiWcXPorXwxSmIaqEveoaIFfwNcXCVbRRkDeGaiHLCnBVHytUiOkDxrpDbtCfjpYEledfQkFZPmriPXPlwlMTvXxadUQfBSIbRlVCYwjkejVgNHRufPTxLSdxgHnetofTFXQCcCeohLgtGypJuCAgNssDdYxmxTIlKjwWFgDahjUmxXLYmQlctNKHZaPUbEjitqkhBfYimHOPOLFuChdbgmvvXcHieUTcsyRjwAvwqugjXpOYrGPNpelJPGnpGmZFrbHiTQPpvJcmyMhsRwUHYrAUIbOraLnhlHvwDDNaVegdeDgRsFyCLNSLhpNCawZmGDqGNcZfGMAHVWdsjXvOGMoatATXxvXOljuLLUSyosdlaCyloqSMEWvjIGJolyGOYlGxCnVwxBOEDBFhjWPcNZLtbmkaAudPjbiMDwnAoPsGShopXZZXomFpqEWeTuFsqnDJPpehyUOYRLYHhtRbfDAmKHOdnZRxHOEMQQqUBgaEeDvwdZBrbpgBXsNlTjMIifyIQGkmLZmkXHHCyQaihBXMemumxZLZyXUsxjXPRPRUmICCAZVWxTgpvPAZuUPhUsZKyBlidggHeSyvDUsSyeHXtMXiaqRoQtQAPkJMdFsITPveXdGnANHyMjixiFsMKbBQxBPfEYCABNurcGMVWowwutFaDsibcLLUZNxVqAsmLhKpJhRiUMUfAsJkiWXPAQuXCLWgBrBgyZqudOUwRuIwDwxTNBFthelahjqwwSXYJtZduSCfMDccSmcnQigrcXjyIvGrWCCcjqJQrADItFjxeDXHwEHLnDDMEkJMwNLTVUqBLiKIKlhXBRKtFDAPoVEJeEPqWPmTQZjLdlYWbbkMXuhKyWVvMhNPYuHNfOYSYSvSOGCVXZthZnyBQFBZcnNSAHmjcZdxvjEYKRuROefRmWBBMvISfGZXaHGjHgwHpAeENDiEgELUpBtXCbCZRfgUnmpkfuIwwCncWRKCfUPrRBgLmvRlDpiKxwBalsQrFWcRrvjoxqXBPXHBDmquRygWfHcWMaRTOfZTZIXfttSvTBJuwkCwIEoHBtmopYoFvIFSZjKqHDmubVdBdkuSfNvGFUWNunLyiJueJqjCQMmfpmDuYkwlLpRjKQUqAZGCAVEBSMcSxyOPPBenkwrVnZEpKpjAQtEYaDuMitaXNcWPBiFJTIKFqUKJjLXjGvIqfkCKBoWkCFaerVLoKjjdiBAjSLuSsIsNsHTGoHgHskinusXvPHerXPAVBbREppolhXCgSmtBDxYFtyXSZECIajYYJZUqlNnqHXZqSnPEVQFslQgmarNvQgsaXYRaIcPTUMAUmXRErLdAjtuYqGCaFOftAlZQJjWGpeQfxwMAMXabFZdoJcjQuQXMlfFiJhFByoBqDkdiFUHnPedAGLGLGqPSWjVaFUWWvuoTWwRRjmcPpqCVYnhfTUIedUZZSiWlCggPGVlAfPuTBtNoDbxqRPIXQGAFUtEcDBdenmsGBTOGLvUjRgalcjqHOmGDWlTWvZSSbDPfiquOxVpwYOUGDqytmBIqgNYhGEaklsBTtDhCuCGueOIefUIRhhHnXGDYsRxqKVaVidluxlQeUxHxJbPaoatAfWrDqeGKxZyNCBZanlVuenHQRyLAKwJJWeFEauQrZqEWrVWolJumwDmgOLXvElqfAYBHkXiobEvovHcvYIMmWZqwPefdBFGwNEPYWBfySLHCbgIivwmspYmJKfxGNIEBNatmNLXWHeUUsrhOVuCxXNGSNACWDvBSMQbUyFSpuRqiYDJEIeIJpjVSDOGEHTYrucjkCJUhjdayoytLoZRyGp
+========

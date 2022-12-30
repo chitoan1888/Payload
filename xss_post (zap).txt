@@ -1,0 +1,1057 @@
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=%3Cimg%20src=%22random.gif%22%20onerror=alert(5397)%3E
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=%3Cimg%20src=%22random.gif%22%20onerror=alert(5397)%3E
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=%3Cimg%20src=%22random.gif%22%20onerror=alert(5397)%3E
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=%3Cimg%20src=%22random.gif%22%20onerror=alert(5397)%3E
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/1521402225185349782.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/3993173767601237359 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/js/5252096179723120180 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/3923106918355538243 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+POST /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 44
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+firstname=0W45pz4p&lastname=bbbb&form=submit
+========
+POST /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 99
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+firstname=%3C%2Fdiv%3E%3CscrIpt%3Ealert%281%29%3B%3C%2FscRipt%3E%3Cdiv%3E&lastname=bbbb&form=submit
+========
+POST /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 44
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+firstname=aaaa&lastname=0W45pz4p&form=submit
+========
+POST /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 99
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+firstname=aaaa&lastname=%3C%2Fdiv%3E%3CscrIpt%3Ealert%281%29%3B%3C%2FscRipt%3E%3Cdiv%3E&form=submit
+========
+POST /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 42
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+firstname=aaaa&lastname=bbbb&form=0W45pz4p
+========
+POST /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 48
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+firstname=aaaa&lastname=bbbb&form=submit0W45pz4p
+========
+POST /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 82
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+firstname=aaaa&lastname=bbbb&form=%27%22%3CscrIpt%3Ealert%281%29%3B%3C%2FscRipt%3E
+========
+POST /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 85
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+firstname=aaaa&lastname=bbbb&form=%27%22%00%3CscrIpt%3Ealert%281%29%3B%3C%2FscRipt%3E
+========
+POST /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 80
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+firstname=aaaa&lastname=bbbb&form=%27%22%3Cimg+src%3Dx+onerror%3Dprompt%28%29%3E
+========
+POST /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 44
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+firstname=zApPX6sS&lastname=bbbb&form=submit
+========
+POST /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 44
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+firstname=aaaa&lastname=zApPX7sS&form=submit
+========
+POST /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 42
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+firstname=aaaa&lastname=bbbb&form=zApPX8sS
+========
+POST /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 40
+Origin: https://192.168.118.128
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+firstname=aaaa&lastname=bbbb&form=submit
+========
+GET /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Upgrade-Insecure-Requests: 1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/xss_post.php?name=abc HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Upgrade-Insecure-Requests: 1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/js/html5.js HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/js/html5.js HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/xss_post.php?name=%3Cimg%20src=%22random.gif%22%20onerror=alert(5397)%3E HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Upgrade-Insecure-Requests: 1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Upgrade-Insecure-Requests: 1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=abc
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/xss_post.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Upgrade-Insecure-Requests: 1
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=%3Cimg%20src=%22random.gif%22%20onerror=alert(5397)%3E
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=%3Cimg%20src=%22random.gif%22%20onerror=alert(5397)%3E
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=%3Cimg%20src=%22random.gif%22%20onerror=alert(5397)%3E
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php?name=%3Cimg%20src=%22random.gif%22%20onerror=alert(5397)%3E
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/xss_post.php
+Cookie: PHPSESSID=snucvfgldutbva8crrmda953e4; security_level=0
+X-Burp-Comment:   |  
+
+
+========

